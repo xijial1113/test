@@ -1,1 +1,2 @@
 Second txt
+The second line of text2
